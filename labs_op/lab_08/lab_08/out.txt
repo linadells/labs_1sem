@@ -1,0 +1,7 @@
+Sorted list of older students:
+Surname   Name	Birthday  Marks
+Biduk Olena 06.09.2005 3 3 3
+Lutvynets Viktoria 02.07.2005 3 5 4
+Savchii Artyr 01.04.2005 5 4 5
+Sheleshko Ilona 02.07.2005 3 2 3
+Voitsistka Iryna 19.11.2005 5 5 5

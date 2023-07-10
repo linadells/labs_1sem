@@ -1,0 +1,18 @@
+[Sun Dec  4 15:43:38 2022] Program started.
+[Sun Dec  4 15:43:42 2022] Parameters file in.bin opened.x = 5.000000, y = 4.000000
+[Sun Dec  4 15:43:42 2022] Expression calculated. Res = 0.044212
+[Sun Dec  4 15:43:51 2022] Output file "out.bin"  saved.
+[Sun Dec  4 15:43:51 2022] Program ended.
+
+[Sun Dec  4 15:43:55 2022] Program started.
+[Sun Dec  4 15:43:59 2022] Parameters file in.bin opened.x = 5.000000, y = 4.000000
+[Sun Dec  4 15:43:59 2022] Expression calculated. Res = 0.044212
+[Sun Dec  4 15:44:05 2022] Output file "out.txt" saved.
+[Sun Dec  4 15:44:05 2022] Program ended.
+
+[Sun Dec  4 15:44:13 2022] Program started.
+[Sun Dec  4 15:44:22 2022] Error opening file. Message: No such file or directory
+[Sun Dec  4 15:44:27 2022] Program started.
+[Sun Dec  4 15:44:30 2022] Parameters file in.bin opened.x = 5.000000, y = 4.000000
+[Sun Dec  4 15:44:30 2022] Expression calculated. Res = 0.044212
+[Sun Dec  4 15:44:30 2022] Incorrect output file format.
