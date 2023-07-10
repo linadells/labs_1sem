@@ -16,7 +16,6 @@ int main()
 	f1 = cos(atan((x * x + y) / (z + 1))) * cos(atan((x * x + y) / (z + 1))) + ((x / z) * exp(3 * x + y));
 	f2 = z * z + ((x * x + (sin(pow(fabs(f1 + y), 0.4)) * sin(pow(fabs(f1 + y), 0.4)))) / (y * y + fabs((x * x - y) / (z + (x * x * x) / 3)) - log(fabs(z))));
 
-	printf("Results:\n");
 	printf("f1= %lf\n", f1);
 	printf("f2= %lf\n", f2);
 
